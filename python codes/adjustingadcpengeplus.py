@@ -1,6 +1,8 @@
+#code to edit the ADCP csv file without using pandas to the format of the output of the delft model
 import os
 
 
+#i'm just editing the format of the file here and adjusting the columns
 teste=0
 with open('adcpengeplus/marcoabril.csv', 'r') as entrada, open('adcpengeplus/1603_2004.csv', 'w') as saida:
     for linha in entrada:
