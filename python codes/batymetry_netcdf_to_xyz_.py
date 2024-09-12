@@ -1,3 +1,4 @@
+#A code to transform a netcdf file containing elevation latitude and longitude to a xyz file.
 import xarray as  xr
 
 file = 'GEBCO_09_Apr_2024_0815e339f916/gebco_2023_n-27.6828_s-27.8654_w-48.5719_e-48.4071.nc'
