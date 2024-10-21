@@ -1,0 +1,56 @@
+ALEXANDRE, R.; SÜHNEL, S.; FERREIRA, E. Mortality of the Clam Anomalocardia brasiliana Population in the Pirajubaé Marine Extractive Reserve: Effect of Climate Events? Anuário do Instituto de Geociências, v. 45, 2 dez. 2022.
+BODNARIUK, N. et al. Interannual Variability of the Latitude of Separation of the Brazil Current: Teleconnections and Oceanic Rossby Waves Propagation. JGR Oceans, v. 126, n. 10, 1 out. 2021.
+CAMPOS, P. C. et al. Seasonal variability and coastal upwelling near Cape Santa Marta (Brazil). JGR Oceans, v. 118, n. 3, p. 1420–1433, 1 mar. 2013.
+CASAGRANDE, A. et al. Artisanal mollusc fisheries co-management in Brazil and Italy: Institutional innovations to address environmental crisis. Journal of Environmental Management, v. 291, p. 112671, ago. 2021.
+CODIGA, D.L. Unified Tidal Analysis and Prediction Using the UTide Matlab Functions. Technical Report. Graduate School of Oceanography, University of Rhode Island, Narragansett, RI. 59pp. ftp://www.po.gso.uri.edu/ pub/downloads/codiga/pubs/2011Codiga-UTide-Report.pd jan. 2011.
+COMBE, T.; MARTIN, A.; DI PIETRO, R. To Docker or Not to Docker: A Security Perspective. IEEE Cloud Computing, v. 3, n. 5, p. 54–62, set. 2016.
+CUMMINGS, J. A. Operational multivariate ocean data assimilation. Quarterly Journal of the Royal Meteorological Society, v. 131, n. 613, p. 3583–3604, 1 out. 2005.
+CUMMINGS, J. A.; SMEDSTAD, O. M. Variational Data Assimilation for the Global Ocean. Springer eBooks, v. 2, p. 303–343, 1 jan. 2013.
+DROUIN, K. L.; LOZIER, M. S.; JOHNS, W. E. Variability and Trends of the South Atlantic Subtropical Gyre. Journal of Geophysical Research: Oceans, v. 126, n. 1, jan. 2021.
+DUTRA, R. et al. Análise dos Registros de Desastres na Zona Costeira da Ilha de Santa Catarina. ABRHidro. Anais... In: III ENCONTRO NACIONAL DE DESASTRES. 2023.
+EKMAN, Vagn Walfrid. On the influence of the earth's rotation on ocean-currents. 1905.
+FENG, X.; FENG, H. On the Role of Anthropogenic Activity and Sea‐Level‐Rise in Tidal Distortion on the Open Coast of the Yellow Sea Shelf. Journal of Geophysical Research Oceans, v. 126, n. 3, 1 mar. 2021.
+FERNANDES, I. G. et al. Offshore Validation of ERA5 Reanalysis with Hub Height Wind Observations of Brazil. Disponível em: <https://ieeexplore.ieee.org/document/9542993/>. Acesso em: 6 fev. 2022.
+FERREIRA, A. Altibati: combinação de altimetria por satélite e batimetria multifeixe para geração de MDE dos canais de maré no litoral setentrional do RN. Disponível em: <https://api.semanticscholar.org/CorpusID:134010420>. Acesso em: 22 maio. 2024.
+FETTER, A. F. H.; MATANO, R. P. On the origins of the variability of the Malvinas Current in a global, eddy-permitting numerical simulation. Journal of Geophysical Research, v. 113, n. C11, 21 nov. 2008.
+FOX-KEMPER, B. et al. SPM Coordinating Lead Authors: Lead Authors: Ocean, Cryosphere and Sea Level Change. Cambridge University Press, v. 2023, 29 jun. 2023.
+FRANZ, G. et al. Coastal Ocean Observing and Modeling Systems in Brazil: Initiatives and Future Perspectives. Frontiers in Marine Science, v. 8, 10 ago. 2021.
+GARBOSSA, L. H. P. et al. Modelling And Validation Of The Santa Catarina Island Bays Hydrodynamics Based On Astronomic Tides And Measured Tides. CUNY Academic Works. Anais... In: 11TH INTERNATIONAL CONFERENCE ON HYDROINFORMATICS. City University of New York (CUNY) , 2014.
+GIAREMIS, S. et al. Storm surge modeling in the AI era: Using LSTM-based machine learning for enhancing forecasting accuracy. Coastal Engineering, v. 191, p. 104532–104532, 1 ago. 2024.
+GRAMCIANINOV, C. B.; HODGES, K. I.; CAMARGO, R. The properties and genesis environments of South Atlantic cyclones. Climate Dynamics, v. 53, n. 7-8, p. 4115–4140, 3 maio 2019.
+IBGE. Rede Maregráfica Permanente para Geodésia | IBGE. Disponível em: <https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/rede-geodesica/10842-rmpg-rede-maregrafica-permanente-para-geodesia.html>. Acesso em: 6 jun. 2024.
+IDIER, D. et al. Sea-level rise impacts on the tides of the European Shelf. Continental Shelf Research, v. 137, p. 56–71, abr. 2017.
+IPCC, 2023: Sections. In: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 35-115, doi: 10.59327/IPCC/AR6-9789291691647
+IPCC. Climate Change 2022: Impacts, Adaptation and Vulnerability Working Group II Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. IPCC, v. 1, n. 1, 2022.
+JAY, D. A. Evolution of tidal amplitudes in the eastern Pacific Ocean. Geophysical Research Letters, v. 36, n. 4, 19 fev. 2009.
+JOHNSON, G. C.; KING, B. A. Zapiola Gyre, Velocities and Mixing, New Argo Insights. Journal of Geophysical Research Oceans, v. 128, n. 6, 1 jun. 2023.
+KOPP, R. E. et al. Evolving Understanding of Antarctic Ice-Sheet Physics and Ambiguity in Probabilistic Sea-Level Projections. Earth’s Future, v. 5, n. 12, p. 1217–1233, dez. 2017.
+LEAL, K. et al. Desastres Naturais Associados à Erosão e Inundação Costeira: Um Levantamento para o Estado de Santa Catarina, Brasil. In: XIV ENANPEGE. 2021.
+LINO, A. Eventos Pluviométricos Extremos e Inundação Composta na Cidade de Recife. Tese—Universidade Federal de Pernambuco: [s.n.].
+MATANO, R. P.; PALMA, E. D.; PIOLA, A. R. The influence of the Brazil and Malvinas Currents on the Southwestern Atlantic Shelf circulation. Ocean Science, v. 6, n. 4, p. 983–995, 30 nov. 2010.
+MENDONÇA, L. F. F. et al. Analysis of a coastal-trapped wave generated by the 2016 extra-tropical cyclonic system in the Southern Brazilian continental shelf with COAWST modeling system. Journal of South American Earth Sciences, v. 129, p. 104522–104522, 1 set. 2023.
+MICHAELOVITCH, M. et al. The Southern Brazilian shelf: general characteristics, quaternary evolution and sediment distribution. Brazilian Journal of Oceanography, v. 58, n. spe2, p. 25–34, 1 jan. 2010.
+MUIS, S. et al. A global reanalysis of storm surges and extreme sea levels. Nature Communications, v. 7, n. 1, 27 jun. 2016.
+NASA. NASA Sea Level Change Portal. Disponível em: <https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool>.
+NUMPY. NumPy user guide — NumPy v1.21 Manual. Disponível em: <https://numpy.org/doc/stable/user/index.html>.
+PARKER, B. B. Tidal Analysis and Prediction NOAA Special Publication NOS CO-OPS 3. [s.l.] National Oceanic and Atmospheric Administration (NOAA), jul. 2007. Disponível em: <https://tidesandcurrents.noaa.gov/publications/Tidal_Analysis_and_Predictions.pdf>.
+PASSOS, E. et al. South Atlantic Central Water Intrusion in the Southeast Brazil Bight and its impacts. Regional Studies in Marine Science, v. 67, p. 103232, 20 dez. 2023.
+PINHO, M. et al. Depósitos fosfáticos marinhos na costa sudeste e sul do Brasil: potenciais áreas de ocorrência identificadas com dados de retroespalhamento acústico do fundo e sedimentológicos analisados sobre mapa batimétrico 3D. Revista Brasileira de Geofísica, v. 29, n. 29, p. 113–126, 1 mar. 2011.
+PIOLA, A. R. et al. Subtropical Shelf Front off eastern South America. Journal of Geophysical Research: Oceans, v. 105, n. C3, p. 6565–6578, 15 mar. 2000.
+PIOLA, A. R. et al. The influence of the Plata River discharge on the western South Atlantic shelf. Geophysical Research Letters, v. 32, n. 1, 2005.
+PIOLA, A. R. et al. Physical Oceanography of the SW Atlantic Shelf: A Review. Springer eBooks, p. 37–56, 1 jan. 2018.
+PUGH, D. T. Tides, Surges and Mean Sea-Level. [s.l.] John Wiley & Sons Ltd, 1987.
+RAY, R.; FOSTER, G. Future nuisance flooding at Boston caused by astronomical tides alone. Earth’s Future, v. 4, n. 12, p. 578–587, dez. 2016.
+Resex Pirajubaé. Disponível em: <https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/resex-marinha-do-pirajubae>. Acesso em: maio. 2024.
+RÖBKE, B. R. et al. Rapid Assessment of Tsunami Offshore Propagation and Inundation with D-FLOW Flexible Mesh and SFINCS for the 2011 Tōhoku Tsunami in Japan. Journal of Marine Science and Engineering, v. 9, n. 5, p. 453, 22 abr. 2021.
+ROVAI, A. S. et al. Global controls on carbon storage in mangrove soils. Nature Climate Change, v. 8, n. 6, p. 534–538, 28 maio 2018.
+RUIZ-ETCHEVERRY, L. A.; SARACENO, M. Sea Level Trend and Fronts in the South Atlantic Ocean. Geosciences, v. 10, n. 6, p. 218, 3 jun. 2020.
+SAINTILAN, N. et al. Thresholds of mangrove survival under rapid sea level rise. Science, v. 368, n. 6495, p. 1118–1121, 4 jun. 2020.
+SASAKI, D. K. et al. Intraseasonal variability of ocean surface wind waves in the western South Atlantic: the role of cyclones and the Pacific South American pattern. Weather and climate dynamics, v. 2, n. 4, p. 1149–1166, 2 dez. 2021.
+SHORT, A.; KLEIN, A. Brazilian Beach Systems. Cham: Springer International Publishing, 2016.
+TALLEY, L. D. et al. Atlantic Ocean. Descriptive Physical Oceanography, p. 245–301, 2011.
+TARGINO, A.; SOARES, M.; AMARO, V. GEODÉSIA APLICADA À INTEGRAÇÃO DE DADOS TOPOGRÁFICOS E BATIMÉTRICOS NA CARACTERIZAÇÃO DE SUPERFÍCIES DE PRAIA. Revista Brasileira de Cartografia, v. 66, n. 1, 26 fev. 2014.
+VANZ, A. et al. Principais eventos de inundação costeira na costa de Santa Catarina registrados pela rede maregráfica da Epagri entre 2012 e 2020. Agropecuária Catarinense/Agropecuária catarinense, v. 34, n. 3, p. 23–26, 28 dez. 2021.
+WAHRLICH, J. et al. CHARACTERIZATION OF THE PREDOMINANT WIND SPEED AND DIRECTION IN SANTA CATARINA, BRAZIL. Revista Brasileira de Climatologia, v. 23, 28 nov. 2018.
+WALLEMACQ, P. et al. The Human Cost of Weather Related Disasters19952015. [s.l.] UN Office for Disaster Risk Reduction, 2015. 
+
